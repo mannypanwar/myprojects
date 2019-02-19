@@ -1,0 +1,7 @@
+[core]
+	editor = 'I:\\Programs\\Microsoft VS Code\\Code.exe' --wait
+[gui]
+	recentrepo = C:/Users/Panwar's/mandeep
+[user]
+	name = mannypanwar
+	email = fit.panwar@gmail.com
