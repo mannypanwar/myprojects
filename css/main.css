@@ -18,17 +18,17 @@
   flex-direction: column;
     justify-content: center;
     align-items: center;
-   
-  
-  
- 
 
 
 
-    
+
+
+
+
+
 }
-img { height: 150px;
-width: 150px;
+img { height: 170px;
+width: 170px;
 border-radius: 50%;
 box-shadow: #0252897a 2px 5px 5px ;
 
@@ -37,6 +37,7 @@ box-shadow: #0252897a 2px 5px 5px ;
 .text{ font-size: 10px;
     text-align: center;
     font-size: 12px;
+    margin-top: 10px
 }
 body{ margin: 0;
 }
@@ -63,5 +64,3 @@ ul li{ display: inline-block;
  a:hover {color: #d7fafa;}
 
  a:visited {color: #fff}
-
- 
